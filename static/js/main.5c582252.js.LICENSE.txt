@@ -47,3 +47,24 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+
+/**
+ * Anime.js - animation - ESM
+ * @version v4.3.1
+ * @license MIT
+ * @copyright 2026 - Julian Garnier
+ */
+
+/**
+ * Anime.js - core - ESM
+ * @version v4.3.1
+ * @license MIT
+ * @copyright 2026 - Julian Garnier
+ */
+
+/**
+ * Anime.js - timeline - ESM
+ * @version v4.3.1
+ * @license MIT
+ * @copyright 2026 - Julian Garnier
+ */
